@@ -3,7 +3,7 @@ title: "Zenn CLIで記事作成してみた"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [zenn]
-published: false
+published: true
 ---
 
 # 概要
